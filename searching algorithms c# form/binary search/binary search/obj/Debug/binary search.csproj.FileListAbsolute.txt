@@ -1,0 +1,9 @@
+C:\Users\flintz\Videos\Latihan  Console C++\searching algorithms c# form\binary search\binary search\bin\Debug\binary search.exe.config
+C:\Users\flintz\Videos\Latihan  Console C++\searching algorithms c# form\binary search\binary search\obj\Debug\binary_search.Form1.resources
+C:\Users\flintz\Videos\Latihan  Console C++\searching algorithms c# form\binary search\binary search\obj\Debug\binary_search.Properties.Resources.resources
+C:\Users\flintz\Videos\Latihan  Console C++\searching algorithms c# form\binary search\binary search\obj\Debug\binary search.csproj.GenerateResource.Cache
+C:\Users\flintz\Videos\Latihan  Console C++\searching algorithms c# form\binary search\binary search\bin\Debug\binary search.exe
+C:\Users\flintz\Videos\Latihan  Console C++\searching algorithms c# form\binary search\binary search\bin\Debug\binary search.pdb
+C:\Users\flintz\Videos\Latihan  Console C++\searching algorithms c# form\binary search\binary search\obj\Debug\binary search.exe
+C:\Users\flintz\Videos\Latihan  Console C++\searching algorithms c# form\binary search\binary search\obj\Debug\binary search.pdb
+C:\Users\flintz\Videos\Latihan  Console C++\searching algorithms c# form\binary search\binary search\obj\Debug\binary search.csprojResolveAssemblyReference.cache

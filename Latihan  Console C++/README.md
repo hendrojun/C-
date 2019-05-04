@@ -1,0 +1,1 @@
+# simple latihan dasar c++ 

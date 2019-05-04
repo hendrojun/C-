@@ -1,0 +1,8 @@
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\quick sort\quick sort\bin\Debug\quick sort.exe.config
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\quick sort\quick sort\bin\Debug\quick sort.exe
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\quick sort\quick sort\bin\Debug\quick sort.pdb
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\quick sort\quick sort\obj\Debug\quick_sort.Form1.resources
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\quick sort\quick sort\obj\Debug\quick_sort.Properties.Resources.resources
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\quick sort\quick sort\obj\Debug\quick sort.csproj.GenerateResource.Cache
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\quick sort\quick sort\obj\Debug\quick sort.exe
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\quick sort\quick sort\obj\Debug\quick sort.pdb

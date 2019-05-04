@@ -1,0 +1,8 @@
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\merge sort\merge sort\bin\Debug\merge sort.exe.config
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\merge sort\merge sort\bin\Debug\merge sort.exe
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\merge sort\merge sort\bin\Debug\merge sort.pdb
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\merge sort\merge sort\obj\Debug\merge_sort.Form1.resources
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\merge sort\merge sort\obj\Debug\merge_sort.Properties.Resources.resources
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\merge sort\merge sort\obj\Debug\merge sort.csproj.GenerateResource.Cache
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\merge sort\merge sort\obj\Debug\merge sort.exe
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\merge sort\merge sort\obj\Debug\merge sort.pdb

@@ -1,0 +1,8 @@
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\insertion sort\insertion\insertion\bin\Debug\insertion.exe.config
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\insertion sort\insertion\insertion\bin\Debug\insertion.exe
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\insertion sort\insertion\insertion\bin\Debug\insertion.pdb
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\insertion sort\insertion\insertion\obj\Debug\insertion.Form1.resources
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\insertion sort\insertion\insertion\obj\Debug\insertion.Properties.Resources.resources
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\insertion sort\insertion\insertion\obj\Debug\insertion.csproj.GenerateResource.Cache
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\insertion sort\insertion\insertion\obj\Debug\insertion.exe
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\insertion sort\insertion\insertion\obj\Debug\insertion.pdb

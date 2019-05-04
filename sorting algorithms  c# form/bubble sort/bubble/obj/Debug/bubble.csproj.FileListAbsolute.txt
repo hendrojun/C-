@@ -1,0 +1,11 @@
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\bubble sort\bubble\bubble\bin\Debug\bubble.exe.config
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\bubble sort\bubble\bubble\bin\Debug\bubble.exe
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\bubble sort\bubble\bubble\bin\Debug\bubble.pdb
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\bubble sort\bubble\bubble\obj\Debug\bubble.bubble.resources
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\bubble sort\bubble\bubble\obj\Debug\bubble.Properties.Resources.resources
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\bubble sort\bubble\bubble\obj\Debug\bubble.csproj.GenerateResource.Cache
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\bubble sort\bubble\bubble\obj\Debug\bubble.exe
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\bubble sort\bubble\bubble\obj\Debug\bubble.pdb
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\bubble sort\bubble\bin\Debug\bubble.exe.config
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\bubble sort\bubble\obj\Debug\bubble.exe
+C:\Users\flintz\Videos\Latihan  Console C++\sorting algorithms  c# form\bubble sort\bubble\obj\Debug\bubble.pdb

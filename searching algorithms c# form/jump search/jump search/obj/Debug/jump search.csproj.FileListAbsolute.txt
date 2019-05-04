@@ -1,0 +1,8 @@
+C:\Users\flintz\Videos\Latihan  Console C++\searching algorithms c# form\jump search\jump search\bin\Debug\jump search.exe.config
+C:\Users\flintz\Videos\Latihan  Console C++\searching algorithms c# form\jump search\jump search\bin\Debug\jump search.exe
+C:\Users\flintz\Videos\Latihan  Console C++\searching algorithms c# form\jump search\jump search\bin\Debug\jump search.pdb
+C:\Users\flintz\Videos\Latihan  Console C++\searching algorithms c# form\jump search\jump search\obj\Debug\jump_search.Form1.resources
+C:\Users\flintz\Videos\Latihan  Console C++\searching algorithms c# form\jump search\jump search\obj\Debug\jump_search.Properties.Resources.resources
+C:\Users\flintz\Videos\Latihan  Console C++\searching algorithms c# form\jump search\jump search\obj\Debug\jump search.csproj.GenerateResource.Cache
+C:\Users\flintz\Videos\Latihan  Console C++\searching algorithms c# form\jump search\jump search\obj\Debug\jump search.exe
+C:\Users\flintz\Videos\Latihan  Console C++\searching algorithms c# form\jump search\jump search\obj\Debug\jump search.pdb
